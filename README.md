@@ -1,7 +1,6 @@
 # Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation
 
-<a href="https://arxiv.org/abs/2502.????"><img src="https://img.shields.io/badge/arXiv-2502.????-b31b1b.svg" height=22.5></a>
-
+<a href="https://arxiv.org/abs/2502.05895"><img src="https://img.shields.io/badge/arXiv-2502.05895-b31b1b.svg" height=22.5></a>
 <a href="https://colab.research.google.com/drive/1PNC307ap9rdu7zXw5EOXy_GdITXcZbkq?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
 [![License](https://img.shields.io/github/license/AIRI-Institute/al_toolbox)](./LICENSE)
 
@@ -17,7 +16,7 @@ We analyze sampling strategies in personalized image generation, showing how sup
 
 ## Updates
 
-- [30/01/2025] 🔥🔥🔥 Beyond Fine-Tuning release. Paper has been published on [Arxiv](https://arxiv.org/abs/2502.????)
+- [30/01/2025] 🔥🔥🔥 Beyond Fine-Tuning release. Paper has been published on [Arxiv](https://arxiv.org/abs/2502.05895)
   
 ## Prerequisites
 You need following hardware and python version to run our method.
@@ -95,10 +94,13 @@ The repository has used several codebases:
 
 If you use this code or our findings for your research, please cite our paper:
 ```
-@article{soboleva2025beyondft,
-  title={Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation},
-  author={Soboleva, Vera and Nakhodnov, Maksim and Alanov, Aibek},
-  journal={arXiv preprint arXiv:2502.?????},
-  year={2025}
+@misc{soboleva2025finetuningsystematicstudysampling,
+  title={Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation}, 
+  author={Vera Soboleva and Maksim Nakhodnov and Aibek Alanov},
+  year={2025},
+  eprint={2502.05895},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2502.05895}, 
 }
 ```
